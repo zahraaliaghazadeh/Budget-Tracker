@@ -33,7 +33,7 @@ With Budget Tracker you will be able to track your spending and funds. You can a
 To install : 
 * [Visual Code](https://code.visualstudio.com/docs/setup/setup-overview)
 * [NodeJS](https://nodejs.org/en/download/)
-* [Mongodb](https://docs.mongodb.com/manual/installation/)
+* [Mongodb](https://docs.mongodb.com/manual/installation/) <br>
 For Mac
 * [Homebrew](https://brew.sh/)
 * [XCode](https://developer.apple.com/xcode/)
